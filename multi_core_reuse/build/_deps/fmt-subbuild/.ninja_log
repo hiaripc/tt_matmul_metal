@@ -1,0 +1,21 @@
+# ninja log v5
+0	41	1736429322130258711	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	2827540286326ad7
+0	41	1736429322130258711	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	2827540286326ad7
+41	988	1736429323077279576	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	75a9b0689108a8cd
+41	988	1736429323077279576	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	75a9b0689108a8cd
+988	999	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	49df6da75e50b435
+988	999	0	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	49df6da75e50b435
+999	1009	1736429323098280039	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	6d09f51fb962bb9a
+999	1009	1736429323098280039	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	6d09f51fb962bb9a
+1009	1020	1736429323109280281	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	a0fb25754bb3d32c
+1009	1020	1736429323109280281	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	a0fb25754bb3d32c
+1020	1031	1736429323120280524	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	93c6053bcae86f94
+1020	1031	1736429323120280524	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	93c6053bcae86f94
+1031	1042	1736429323131280766	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	742b8979d0147165
+1031	1042	1736429323131280766	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	742b8979d0147165
+1042	1053	1736429323142281008	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	441e89d80e566614
+1042	1053	1736429323142281008	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	441e89d80e566614
+1053	1069	1736429323158281361	CMakeFiles/fmt-populate-complete	1032063a68f3954c
+1053	1069	1736429323158281361	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	1032063a68f3954c
+1053	1069	1736429323158281361	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	1032063a68f3954c
+1053	1069	1736429323158281361	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	1032063a68f3954c

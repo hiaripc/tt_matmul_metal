@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/boost_throw_exception-build",
+		"source" : ".cpmcache/boost_throw_exception/af21673c57a398b5939be5615af8d2614136f98b"
+	}
+}

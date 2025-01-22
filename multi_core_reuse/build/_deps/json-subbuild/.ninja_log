@@ -1,0 +1,21 @@
+# ninja log v5
+0	46	1736429328457398113	json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	3fc5d3a4bf493572
+0	46	1736429328457398113	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	3fc5d3a4bf493572
+46	7892	1736429336303570985	json-populate-prefix/src/json-populate-stamp/json-populate-download	c2f55f2f4c83d26c
+46	7892	1736429336303570985	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download	c2f55f2f4c83d26c
+7892	7903	0	json-populate-prefix/src/json-populate-stamp/json-populate-update	2ff154737b546835
+7892	7903	0	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update	2ff154737b546835
+7903	7913	1736429336324571447	json-populate-prefix/src/json-populate-stamp/json-populate-patch	6967536ed5368cbe
+7903	7913	1736429336324571447	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch	6967536ed5368cbe
+7914	7924	1736429336335571690	json-populate-prefix/src/json-populate-stamp/json-populate-configure	1773de6498216886
+7914	7924	1736429336335571690	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure	1773de6498216886
+7924	7935	1736429336346571932	json-populate-prefix/src/json-populate-stamp/json-populate-build	d2354d46340ddc1a
+7924	7935	1736429336346571932	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build	d2354d46340ddc1a
+7935	7945	1736429336356572152	json-populate-prefix/src/json-populate-stamp/json-populate-install	f7649a38d72ca695
+7935	7945	1736429336356572152	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install	f7649a38d72ca695
+7945	7955	1736429336366572373	json-populate-prefix/src/json-populate-stamp/json-populate-test	f74c7f77c6c1d751
+7945	7955	1736429336366572373	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test	f74c7f77c6c1d751
+7955	7971	1736429336382572725	CMakeFiles/json-populate-complete	b8a24c36910c1bf8
+7955	7971	1736429336382572725	json-populate-prefix/src/json-populate-stamp/json-populate-done	b8a24c36910c1bf8
+7955	7971	1736429336382572725	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/json-subbuild/CMakeFiles/json-populate-complete	b8a24c36910c1bf8
+7955	7971	1736429336382572725	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-done	b8a24c36910c1bf8

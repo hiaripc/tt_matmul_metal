@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_move-subbuild/CMakeFiles/boost_move-populate"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_move-subbuild/CMakeFiles/boost_move-populate.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_move-subbuild/CMakeFiles/boost_move-populate-complete.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_move-subbuild/boost_move-populate-prefix/src/boost_move-populate-stamp/boost_move-populate-build.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_move-subbuild/boost_move-populate-prefix/src/boost_move-populate-stamp/boost_move-populate-configure.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_move-subbuild/boost_move-populate-prefix/src/boost_move-populate-stamp/boost_move-populate-download.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_move-subbuild/boost_move-populate-prefix/src/boost_move-populate-stamp/boost_move-populate-install.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_move-subbuild/boost_move-populate-prefix/src/boost_move-populate-stamp/boost_move-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_move-subbuild/boost_move-populate-prefix/src/boost_move-populate-stamp/boost_move-populate-patch.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_move-subbuild/boost_move-populate-prefix/src/boost_move-populate-stamp/boost_move-populate-test.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_move-subbuild/boost_move-populate-prefix/src/boost_move-populate-stamp/boost_move-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"boost_move-populate"
+		],
+		"name" : "boost_move-populate"
+	}
+}

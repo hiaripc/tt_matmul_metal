@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/boost_core-build/test",
+		"source" : ".cpmcache/boost_core/e679bef5c160cf29d0f37d549881dc5f5a58c332/test"
+	}
+}

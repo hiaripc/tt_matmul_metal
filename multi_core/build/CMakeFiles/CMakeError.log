@@ -1,0 +1,36 @@
+Performing C++ SOURCE FILE Test RANGES_HAS_FMACRO_BACKTRACE_LIMIT failed with the following output:
+Change Dir: /home/hiari/wd/metal-matmul/multi_core/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_ca962 && [1/2] Building CXX object CMakeFiles/cmTC_ca962.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_ca962.dir/src.cxx.o 
+/usr/bin/c++ -DRANGES_HAS_FMACRO_BACKTRACE_LIMIT  -fmacro-backtrace-limit=1 -o CMakeFiles/cmTC_ca962.dir/src.cxx.o -c /home/hiari/wd/metal-matmul/multi_core/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command-line option '-fmacro-backtrace-limit=1'; did you mean '-ftemplate-backtrace-limit='?
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test RANGES_HAS_STRICT_VTABLE_POINTERS failed with the following output:
+Change Dir: /home/hiari/wd/metal-matmul/multi_core/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_6a085 && [1/2] Building CXX object CMakeFiles/cmTC_6a085.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_6a085.dir/src.cxx.o 
+/usr/bin/c++ -DRANGES_HAS_STRICT_VTABLE_POINTERS  -fstrict-vtable-pointers -o CMakeFiles/cmTC_6a085.dir/src.cxx.o -c /home/hiari/wd/metal-matmul/multi_core/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command-line option '-fstrict-vtable-pointers'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test RANGES_HAS_VECTORIZE failed with the following output:
+Change Dir: /home/hiari/wd/metal-matmul/multi_core/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_b4469 && [1/2] Building CXX object CMakeFiles/cmTC_b4469.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_b4469.dir/src.cxx.o 
+/usr/bin/c++ -DRANGES_HAS_VECTORIZE  -fvectorize -o CMakeFiles/cmTC_b4469.dir/src.cxx.o -c /home/hiari/wd/metal-matmul/multi_core/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command-line option '-fvectorize'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }

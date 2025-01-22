@@ -1,0 +1,95 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			".cpmcache/range-v3/c7042f84d5198c6c2266bf6a4eb359019dc83699/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 181,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 182,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 186,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/range-v3",
+			"exportName" : "range-v3-targets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "range-v3-concepts::@7ce4e5bf9d9eb77e955f",
+					"index" : 0
+				},
+				{
+					"id" : "range-v3-meta::@7ce4e5bf9d9eb77e955f",
+					"index" : 0
+				},
+				{
+					"id" : "range-v3::@7ce4e5bf9d9eb77e955f",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"_deps/range-v3-build/CMakeFiles/Export/lib/cmake/range-v3/range-v3-targets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/range-v3",
+			"paths" : 
+			[
+				"build/_deps/range-v3-build/range-v3-config-version.cmake",
+				".cpmcache/range-v3/c7042f84d5198c6c2266bf6a4eb359019dc83699/cmake/range-v3-config.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				{
+					"from" : ".cpmcache/range-v3/c7042f84d5198c6c2266bf6a4eb359019dc83699/include",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/range-v3-build",
+		"source" : ".cpmcache/range-v3/c7042f84d5198c6c2266bf6a4eb359019dc83699"
+	}
+}

@@ -1,0 +1,3 @@
+repository='https://github.com/boostorg/type_traits.git'
+module=''
+tag='origin'

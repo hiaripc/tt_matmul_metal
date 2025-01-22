@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/CMakeFiles/reflect-populate"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/CMakeFiles/reflect-populate.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/CMakeFiles/reflect-populate-complete.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-build.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-configure.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-download.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-install.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-patch.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-test.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"reflect-populate"
+		],
+		"name" : "reflect-populate"
+	}
+}

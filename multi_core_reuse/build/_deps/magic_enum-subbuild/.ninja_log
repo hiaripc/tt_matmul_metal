@@ -1,0 +1,21 @@
+# ninja log v5
+0	41	1736429321322240908	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-mkdir	fcc710f5aa71fee9
+0	41	1736429321322240908	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-mkdir	fcc710f5aa71fee9
+41	689	1736429321969255163	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-download	a34f85197017886f
+41	689	1736429321969255163	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-download	a34f85197017886f
+689	700	0	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-update	4176fc35ba9e16fc
+689	700	0	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-update	4176fc35ba9e16fc
+700	710	1736429321990255626	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-patch	c2add1081cb8d4df
+700	710	1736429321990255626	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-patch	c2add1081cb8d4df
+710	721	1736429322001255868	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-configure	216ea81193d1c9b8
+710	721	1736429322001255868	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-configure	216ea81193d1c9b8
+721	732	1736429322012256110	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-build	c46ed26458aaa4f2
+721	732	1736429322012256110	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-build	c46ed26458aaa4f2
+732	743	1736429322023256353	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-install	dd51b650e17b3f13
+732	743	1736429322023256353	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-install	dd51b650e17b3f13
+743	753	1736429322033256573	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-test	9e42552809bc1482
+743	753	1736429322033256573	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-test	9e42552809bc1482
+753	769	1736429322049256926	CMakeFiles/magic_enum-populate-complete	f4ad3a40bdf1868
+753	769	1736429322049256926	magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-done	f4ad3a40bdf1868
+753	769	1736429322049256926	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/magic_enum-subbuild/CMakeFiles/magic_enum-populate-complete	f4ad3a40bdf1868
+753	769	1736429322049256926	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/magic_enum-subbuild/magic_enum-populate-prefix/src/magic_enum-populate-stamp/magic_enum-populate-done	f4ad3a40bdf1868

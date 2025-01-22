@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_container-subbuild/CMakeFiles/boost_container-populate"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_container-subbuild/CMakeFiles/boost_container-populate.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_container-subbuild/CMakeFiles/boost_container-populate-complete.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_container-subbuild/boost_container-populate-prefix/src/boost_container-populate-stamp/boost_container-populate-build.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_container-subbuild/boost_container-populate-prefix/src/boost_container-populate-stamp/boost_container-populate-configure.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_container-subbuild/boost_container-populate-prefix/src/boost_container-populate-stamp/boost_container-populate-download.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_container-subbuild/boost_container-populate-prefix/src/boost_container-populate-stamp/boost_container-populate-install.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_container-subbuild/boost_container-populate-prefix/src/boost_container-populate-stamp/boost_container-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_container-subbuild/boost_container-populate-prefix/src/boost_container-populate-stamp/boost_container-populate-patch.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_container-subbuild/boost_container-populate-prefix/src/boost_container-populate-stamp/boost_container-populate-test.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_container-subbuild/boost_container-populate-prefix/src/boost_container-populate-stamp/boost_container-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"boost_container-populate"
+		],
+		"name" : "boost_container-populate"
+	}
+}

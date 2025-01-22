@@ -1,0 +1,36 @@
+Performing C++ SOURCE FILE Test RANGES_HAS_FMACRO_BACKTRACE_LIMIT failed with the following output:
+Change Dir: /home/hiari/wd/metal-matmul/multi_core_reuse_mcast/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_5c549 && [1/2] Building CXX object CMakeFiles/cmTC_5c549.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_5c549.dir/src.cxx.o 
+/usr/bin/g++ -DRANGES_HAS_FMACRO_BACKTRACE_LIMIT  -fmacro-backtrace-limit=1 -o CMakeFiles/cmTC_5c549.dir/src.cxx.o -c /home/hiari/wd/metal-matmul/multi_core_reuse_mcast/build/CMakeFiles/CMakeTmp/src.cxx
+g++: error: unrecognized command-line option '-fmacro-backtrace-limit=1'; did you mean '-ftemplate-backtrace-limit='?
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test RANGES_HAS_STRICT_VTABLE_POINTERS failed with the following output:
+Change Dir: /home/hiari/wd/metal-matmul/multi_core_reuse_mcast/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_ead3a && [1/2] Building CXX object CMakeFiles/cmTC_ead3a.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_ead3a.dir/src.cxx.o 
+/usr/bin/g++ -DRANGES_HAS_STRICT_VTABLE_POINTERS  -fstrict-vtable-pointers -o CMakeFiles/cmTC_ead3a.dir/src.cxx.o -c /home/hiari/wd/metal-matmul/multi_core_reuse_mcast/build/CMakeFiles/CMakeTmp/src.cxx
+g++: error: unrecognized command-line option '-fstrict-vtable-pointers'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test RANGES_HAS_VECTORIZE failed with the following output:
+Change Dir: /home/hiari/wd/metal-matmul/multi_core_reuse_mcast/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_e685a && [1/2] Building CXX object CMakeFiles/cmTC_e685a.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_e685a.dir/src.cxx.o 
+/usr/bin/g++ -DRANGES_HAS_VECTORIZE  -fvectorize -o CMakeFiles/cmTC_e685a.dir/src.cxx.o -c /home/hiari/wd/metal-matmul/multi_core_reuse_mcast/build/CMakeFiles/CMakeTmp/src.cxx
+g++: error: unrecognized command-line option '-fvectorize'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }

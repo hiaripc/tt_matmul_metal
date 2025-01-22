@@ -1,0 +1,21 @@
+# ninja log v5
+0	42	1736429320485222466	reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-mkdir	b3f9f7dac5127f3d
+0	42	1736429320485222466	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-mkdir	b3f9f7dac5127f3d
+42	716	1736429321158237295	reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-download	64477050edb38ada
+42	716	1736429321158237295	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-download	64477050edb38ada
+716	725	0	reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-update	728d9eaf7f836c7a
+716	725	0	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-update	728d9eaf7f836c7a
+725	737	1736429321180237779	reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-patch	c34a150a16515735
+725	737	1736429321180237779	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-patch	c34a150a16515735
+737	748	1736429321191238022	reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-configure	cb6d8a53fab92a7c
+737	748	1736429321191238022	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-configure	cb6d8a53fab92a7c
+748	759	1736429321202238264	reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-build	b1bc01df0bd16f5e
+748	759	1736429321202238264	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-build	b1bc01df0bd16f5e
+759	771	1736429321214238528	reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-install	7a1240e28a2ad52e
+759	771	1736429321214238528	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-install	7a1240e28a2ad52e
+771	782	1736429321225238771	reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-test	a578134ce10cbb74
+771	782	1736429321225238771	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-test	a578134ce10cbb74
+782	798	1736429321241239123	CMakeFiles/reflect-populate-complete	9cb5676cfb20ef5a
+782	798	1736429321241239123	reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-done	9cb5676cfb20ef5a
+782	798	1736429321241239123	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/CMakeFiles/reflect-populate-complete	9cb5676cfb20ef5a
+782	798	1736429321241239123	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/reflect-subbuild/reflect-populate-prefix/src/reflect-populate-stamp/reflect-populate-done	9cb5676cfb20ef5a

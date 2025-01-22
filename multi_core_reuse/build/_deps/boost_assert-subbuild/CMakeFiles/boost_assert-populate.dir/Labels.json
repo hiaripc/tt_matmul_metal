@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_assert-subbuild/CMakeFiles/boost_assert-populate"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_assert-subbuild/CMakeFiles/boost_assert-populate.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_assert-subbuild/CMakeFiles/boost_assert-populate-complete.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_assert-subbuild/boost_assert-populate-prefix/src/boost_assert-populate-stamp/boost_assert-populate-build.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_assert-subbuild/boost_assert-populate-prefix/src/boost_assert-populate-stamp/boost_assert-populate-configure.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_assert-subbuild/boost_assert-populate-prefix/src/boost_assert-populate-stamp/boost_assert-populate-download.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_assert-subbuild/boost_assert-populate-prefix/src/boost_assert-populate-stamp/boost_assert-populate-install.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_assert-subbuild/boost_assert-populate-prefix/src/boost_assert-populate-stamp/boost_assert-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_assert-subbuild/boost_assert-populate-prefix/src/boost_assert-populate-stamp/boost_assert-populate-patch.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_assert-subbuild/boost_assert-populate-prefix/src/boost_assert-populate-stamp/boost_assert-populate-test.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_assert-subbuild/boost_assert-populate-prefix/src/boost_assert-populate-stamp/boost_assert-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"boost_assert-populate"
+		],
+		"name" : "boost_assert-populate"
+	}
+}

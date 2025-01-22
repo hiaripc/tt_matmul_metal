@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/CMakeFiles/boost_type_traits-populate"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/CMakeFiles/boost_type_traits-populate.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/CMakeFiles/boost_type_traits-populate-complete.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-build.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-configure.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-download.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-install.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-patch.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-test.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"boost_type_traits-populate"
+		],
+		"name" : "boost_type_traits-populate"
+	}
+}

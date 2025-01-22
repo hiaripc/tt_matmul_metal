@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/boost_assert-build",
+		"source" : ".cpmcache/boost_assert/3ab1f6f9db9a884ad9a641164dbb6589a5aa7e2d"
+	}
+}

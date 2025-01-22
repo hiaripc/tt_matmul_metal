@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/boost_smart_ptr-build",
+		"source" : ".cpmcache/boost_smart_ptr/46e365a5a6d5492f115758349a9eefaa61cd0a2e"
+	}
+}

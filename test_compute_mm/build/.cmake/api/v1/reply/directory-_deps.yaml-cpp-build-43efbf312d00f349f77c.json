@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/yaml-cpp-build",
+		"source" : ".cpmcache/yaml-cpp/905940a232aea3437e2fb77334461b1fe343318b"
+	}
+}

@@ -1,0 +1,522 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "metal-matmul"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_directories",
+			"target_link_libraries",
+			"target_compile_definitions",
+			"target_include_directories",
+			"target_precompile_headers"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 52,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 91,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 107,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 54,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 111,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-std=c++20"
+				},
+				{
+					"fragment" : "-Winvalid-pch -x c++-header -include /home/hiari/wd/metal-matmul/single_core/build/CMakeFiles/metal-matmul.dir/cmake_pch.hxx"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_CONTAINER_NO_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_CONTAINER_STATIC_LINK"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "FMT_HEADER_ONLY"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "YAML_CPP_STATIC_DEFINE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/third_party/umd"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/third_party/umd/device"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/third_party/umd/device/api"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/third_party/taskflow/3rd-party"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/third_party/tracy/public"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/hw/inc/grayskull"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/hw/inc"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/third_party/umd/src/firmware/riscv/grayskull"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/hostdevcommon/api/hostdevcommon"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/hostdevcommon/api"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/build/ttnn"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/build"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/ttnn/cpp"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/ttnn/cpp/ttnn/deprecated"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/third_party/magic_enum"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/fmt/73b5ec45edbd92babfd91c3777a9e1ab9cac8238/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/magic_enum/4d76fe0a5b27a0e62d6c15976d02b33c54207096/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/yaml-cpp/905940a232aea3437e2fb77334461b1fe343318b/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_core/e679bef5c160cf29d0f37d549881dc5f5a58c332/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_assert/3ab1f6f9db9a884ad9a641164dbb6589a5aa7e2d/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_config/0bad5ba3b48288a243894aa801ed6eccbef70b60/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_static_assert/4be2778cf9cc81907a60618aede8cc2794ead5e2/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_throw_exception/af21673c57a398b5939be5615af8d2614136f98b/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_container/5fb02b14b46d0d84e7a0ce09e2ea5e963d5d93bd/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_intrusive/4a7bf962355d8580809cea3c68f55bbaaa746e64/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_move/c59effd88face3140123440bc5425ee60328f08d/include"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/reflect/e75434c4c5f669e4a74e4d84e0a30d7249c1e66f"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					3
+				],
+				"standard" : "20"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 6,
+					"header" : "/home/hiari/wd/metal-matmul/single_core/pch.hpp"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-std=c++20"
+				},
+				{
+					"fragment" : "-Winvalid-pch -include /home/hiari/wd/metal-matmul/single_core/build/CMakeFiles/metal-matmul.dir/cmake_pch.hxx"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_CONTAINER_NO_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_CONTAINER_STATIC_LINK"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "FMT_HEADER_ONLY"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "YAML_CPP_STATIC_DEFINE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/third_party/umd"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/third_party/umd/device"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/third_party/umd/device/api"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/third_party/taskflow/3rd-party"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/third_party/tracy/public"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/hw/inc/grayskull"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/hw/inc"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/third_party/umd/src/firmware/riscv/grayskull"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/hostdevcommon/api/hostdevcommon"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/hostdevcommon/api"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/build/ttnn"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/build"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/ttnn/cpp"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/ttnn/cpp/ttnn/deprecated"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hiari/tt-install/tt-metal/tt_metal/third_party/magic_enum"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/fmt/73b5ec45edbd92babfd91c3777a9e1ab9cac8238/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/magic_enum/4d76fe0a5b27a0e62d6c15976d02b33c54207096/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/yaml-cpp/905940a232aea3437e2fb77334461b1fe343318b/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_core/e679bef5c160cf29d0f37d549881dc5f5a58c332/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_assert/3ab1f6f9db9a884ad9a641164dbb6589a5aa7e2d/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_config/0bad5ba3b48288a243894aa801ed6eccbef70b60/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_static_assert/4be2778cf9cc81907a60618aede8cc2794ead5e2/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_throw_exception/af21673c57a398b5939be5615af8d2614136f98b/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_container/5fb02b14b46d0d84e7a0ce09e2ea5e963d5d93bd/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_intrusive/4a7bf962355d8580809cea3c68f55bbaaa746e64/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/boost_move/c59effd88face3140123440bc5425ee60328f08d/include"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "/home/hiari/wd/metal-matmul/single_core/.cpmcache/reflect/e75434c4c5f669e4a74e4d84e0a30d7249c1e66f"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					3
+				],
+				"standard" : "20"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 6,
+					"header" : "/home/hiari/wd/metal-matmul/single_core/pch.hpp"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "boost_container::@1bb184d455ba59024578"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "yaml-cpp::@c1fb6b535d5396bcd0b2"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "fmt::@976f4f0bee90b99ecdb6"
+		}
+	],
+	"id" : "metal-matmul::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-L/home/hiari/tt-install/tt-metal/build/lib",
+				"role" : "libraryPath"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/hiari/tt-install/tt-metal/build/lib:/home/hiari/tt-install/tt-metal/build/tt_metal:/home/hiari/tt-install/tt-metal/build/ttnn",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "_deps/fmt-build/libfmt.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "_deps/yaml-cpp-build/libyaml-cpp.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "_deps/boost_container-build/libboost_container.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/home/hiari/tt-install/tt-metal/build/tt_metal/libtt_metal.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/home/hiari/tt-install/tt-metal/build/ttnn/_ttnn.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/home/hiari/tt-install/tt-metal/build/lib/libdevice.so",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "metal-matmul",
+	"nameOnDisk" : "metal-matmul",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		},
+		{
+			"name" : "Precompile Header File",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"path" : "build/CMakeFiles/metal-matmul.dir/cmake_pch.hxx.cxx",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "matmul_single_core.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"path" : "build/CMakeFiles/metal-matmul.dir/cmake_pch.hxx",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

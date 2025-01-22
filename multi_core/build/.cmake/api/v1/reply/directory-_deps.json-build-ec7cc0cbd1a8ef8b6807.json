@@ -1,0 +1,103 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			".cpmcache/json/230202b6f5267cbf0c8e5a2f17301964d95f83ff/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 135,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 155,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 160,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				{
+					"from" : ".cpmcache/json/230202b6f5267cbf0c8e5a2f17301964d95f83ff/single_include",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/nlohmann_json",
+			"paths" : 
+			[
+				"build/_deps/json-build/nlohmann_jsonConfig.cmake",
+				"build/_deps/json-build/nlohmann_jsonConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/nlohmann_json",
+			"exportName" : "nlohmann_jsonTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "nlohmann_json::@1f73e43ed239fe3d59ae",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"_deps/json-build/CMakeFiles/Export/lib/cmake/nlohmann_json/nlohmann_jsonTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"build/_deps/json-build/nlohmann_json.pc"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/json-build",
+		"source" : ".cpmcache/json/230202b6f5267cbf0c8e5a2f17301964d95f83ff"
+	}
+}

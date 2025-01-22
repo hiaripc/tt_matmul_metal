@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_static_assert-subbuild/CMakeFiles/boost_static_assert-populate"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_static_assert-subbuild/CMakeFiles/boost_static_assert-populate.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_static_assert-subbuild/CMakeFiles/boost_static_assert-populate-complete.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_static_assert-subbuild/boost_static_assert-populate-prefix/src/boost_static_assert-populate-stamp/boost_static_assert-populate-build.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_static_assert-subbuild/boost_static_assert-populate-prefix/src/boost_static_assert-populate-stamp/boost_static_assert-populate-configure.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_static_assert-subbuild/boost_static_assert-populate-prefix/src/boost_static_assert-populate-stamp/boost_static_assert-populate-download.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_static_assert-subbuild/boost_static_assert-populate-prefix/src/boost_static_assert-populate-stamp/boost_static_assert-populate-install.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_static_assert-subbuild/boost_static_assert-populate-prefix/src/boost_static_assert-populate-stamp/boost_static_assert-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_static_assert-subbuild/boost_static_assert-populate-prefix/src/boost_static_assert-populate-stamp/boost_static_assert-populate-patch.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_static_assert-subbuild/boost_static_assert-populate-prefix/src/boost_static_assert-populate-stamp/boost_static_assert-populate-test.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_static_assert-subbuild/boost_static_assert-populate-prefix/src/boost_static_assert-populate-stamp/boost_static_assert-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"boost_static_assert-populate"
+		],
+		"name" : "boost_static_assert-populate"
+	}
+}

@@ -1,0 +1,21 @@
+# ninja log v5
+0	44	1736429315159105118	boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-mkdir	d48f7f1211394486
+0	44	1736429315159105118	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-mkdir	d48f7f1211394486
+45	1091	1736429316205128165	boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-download	c6a7c6a79b3e9f35
+45	1091	1736429316205128165	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-download	c6a7c6a79b3e9f35
+1091	1102	0	boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-update	d53dc08397d1d4c8
+1091	1102	0	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-update	d53dc08397d1d4c8
+1102	1113	1736429316227128650	boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-patch	b93babd5868444aa
+1102	1113	1736429316227128650	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-patch	b93babd5868444aa
+1113	1124	1736429316238128892	boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-configure	2ab5ee911b13dfdd
+1113	1124	1736429316238128892	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-configure	2ab5ee911b13dfdd
+1124	1134	1736429316248129112	boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-build	1a8a306213b67638
+1124	1134	1736429316248129112	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-build	1a8a306213b67638
+1134	1145	1736429316259129355	boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-install	d6354d5f631c480f
+1134	1145	1736429316259129355	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-install	d6354d5f631c480f
+1145	1155	1736429316269129575	boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-test	eb6875f7292ad27b
+1145	1155	1736429316269129575	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-test	eb6875f7292ad27b
+1155	1171	1736429316285129927	CMakeFiles/boost_type_traits-populate-complete	81606692a412f87d
+1155	1171	1736429316285129927	boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-done	81606692a412f87d
+1155	1171	1736429316285129927	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/CMakeFiles/boost_type_traits-populate-complete	81606692a412f87d
+1155	1171	1736429316285129927	/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_type_traits-subbuild/boost_type_traits-populate-prefix/src/boost_type_traits-populate-stamp/boost_type_traits-populate-done	81606692a412f87d

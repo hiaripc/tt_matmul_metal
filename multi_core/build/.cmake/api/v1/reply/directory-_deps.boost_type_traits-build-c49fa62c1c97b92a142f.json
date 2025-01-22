@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/boost_type_traits-build",
+		"source" : ".cpmcache/boost_type_traits/3f129569922f87a28a86b66d5910fbd6b0bce11f"
+	}
+}

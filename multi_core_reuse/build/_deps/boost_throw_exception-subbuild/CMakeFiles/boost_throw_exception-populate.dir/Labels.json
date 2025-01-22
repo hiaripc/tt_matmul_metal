@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_throw_exception-subbuild/CMakeFiles/boost_throw_exception-populate"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_throw_exception-subbuild/CMakeFiles/boost_throw_exception-populate.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_throw_exception-subbuild/CMakeFiles/boost_throw_exception-populate-complete.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_throw_exception-subbuild/boost_throw_exception-populate-prefix/src/boost_throw_exception-populate-stamp/boost_throw_exception-populate-build.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_throw_exception-subbuild/boost_throw_exception-populate-prefix/src/boost_throw_exception-populate-stamp/boost_throw_exception-populate-configure.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_throw_exception-subbuild/boost_throw_exception-populate-prefix/src/boost_throw_exception-populate-stamp/boost_throw_exception-populate-download.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_throw_exception-subbuild/boost_throw_exception-populate-prefix/src/boost_throw_exception-populate-stamp/boost_throw_exception-populate-install.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_throw_exception-subbuild/boost_throw_exception-populate-prefix/src/boost_throw_exception-populate-stamp/boost_throw_exception-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_throw_exception-subbuild/boost_throw_exception-populate-prefix/src/boost_throw_exception-populate-stamp/boost_throw_exception-populate-patch.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_throw_exception-subbuild/boost_throw_exception-populate-prefix/src/boost_throw_exception-populate-stamp/boost_throw_exception-populate-test.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_throw_exception-subbuild/boost_throw_exception-populate-prefix/src/boost_throw_exception-populate-stamp/boost_throw_exception-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"boost_throw_exception-populate"
+		],
+		"name" : "boost_throw_exception-populate"
+	}
+}

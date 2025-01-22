@@ -1,0 +1,3 @@
+repository='https://github.com/boostorg/config.git'
+module=''
+tag='origin'

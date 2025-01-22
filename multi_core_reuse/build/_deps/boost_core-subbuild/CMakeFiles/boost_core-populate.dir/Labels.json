@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_core-subbuild/CMakeFiles/boost_core-populate"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_core-subbuild/CMakeFiles/boost_core-populate.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_core-subbuild/CMakeFiles/boost_core-populate-complete.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_core-subbuild/boost_core-populate-prefix/src/boost_core-populate-stamp/boost_core-populate-build.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_core-subbuild/boost_core-populate-prefix/src/boost_core-populate-stamp/boost_core-populate-configure.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_core-subbuild/boost_core-populate-prefix/src/boost_core-populate-stamp/boost_core-populate-download.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_core-subbuild/boost_core-populate-prefix/src/boost_core-populate-stamp/boost_core-populate-install.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_core-subbuild/boost_core-populate-prefix/src/boost_core-populate-stamp/boost_core-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_core-subbuild/boost_core-populate-prefix/src/boost_core-populate-stamp/boost_core-populate-patch.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_core-subbuild/boost_core-populate-prefix/src/boost_core-populate-stamp/boost_core-populate-test.rule"
+		},
+		{
+			"file" : "/home/hiari/wd/metal-matmul/multi_core_reuse/build/_deps/boost_core-subbuild/boost_core-populate-prefix/src/boost_core-populate-stamp/boost_core-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"boost_core-populate"
+		],
+		"name" : "boost_core-populate"
+	}
+}

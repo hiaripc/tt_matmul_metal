@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/boost_intrusive-build",
+		"source" : ".cpmcache/boost_intrusive/4a7bf962355d8580809cea3c68f55bbaaa746e64"
+	}
+}
